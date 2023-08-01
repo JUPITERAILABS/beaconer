@@ -1,0 +1,26 @@
+Commitment to our Customers 
+Your compliance and security needs are our priority.
+At CHEQ, we take great care in implementing and maintaining the security of our services 
+and your data. We employ industry standard procedures and policies to ensure the safety 
+of your data and prevent unauthorized use of any such information.
+Your Information is Secure
+ISO 27001 and SOC2.
+CHEQ is ISO 27001certified. We are 
+targeting SOC 2 compliance to be 
+certified in Q3 2022.
+Your Privacy Practice is Protected
+CHEQ abides by GDPR, CCPA and related regulations.
+None of the CHEQ products require access to information that directly identifies end 
+users accessing your site. CHEQ is a ‘Processor’ under the GDPR and a ‘Service Provider’ 
+under the CCPA. In its capacity as such, CHEQ processes personal data it collects only as 
+necessary to provide its services to the applicable CHEQ customer who authorized the 
+collection of such data. 
+Data access and storage.
+CHEQ ensures all data is stored, 
+processed and hosted on SOC2 
+compliant AWS data centers.
+Your Customer’s Site Experience is Unaltered
+CHEQ’s Asynchronous Tags don’t affect site performance.
+The CHEQ JavaScript tag is designed to be a seamless addition to your website, adding 
+no latency or discernable impact on the user experience. As an asynchronous tag that 
+loads in parallel to your website, it does not block or delay the rendering of the page.

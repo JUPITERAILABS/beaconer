@@ -1,0 +1,11 @@
+pandas
+rapidfuzz
+pytesseract
+pdf2image
+Flask
+scikit-learn
+sentence_transformers
+PyPDF2
+XlsxWriter
+textblob
+docx
